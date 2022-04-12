@@ -6,7 +6,7 @@
 
 ## Status
 
-This project was originally developed by [observIQ](https://observiq.com/) under the name [Stanza](https://github.com/observIQ/stanza). It has been contributed to the OpenTelemetry project in order to accelerate development of the collector's log collection capabilities.
+This DK project was originally developed by [observIQ](https://observiq.com/) under the name [Stanza](https://github.com/observIQ/stanza). It has been contributed to the OpenTelemetry project in order to accelerate development of the collector's log collection capabilities.
 
 **Note** This repository is not currently stable and likely will undergo significant changes in the near term. 
 
